@@ -1,6 +1,6 @@
 # finalprojectbasdatkelompok7
 
-Hallo, perkenalkan nama saya I Gusti Ngurah Ryo Adi Tarta, dapat dipanggil Ryo. Saya sebagai pemilik dari github ini. Terima kasih telah berkunjung. Ini adalah final project dari mata kuliah basis data kami yang berjudul "Technologent". Berikut adalah anggota kelompok kami: 
+Hallo, perkenalkan nama saya I Gusti Ngurah Ryo Adi Tarta, dapat dipanggil Ryo. Saya sebagai pemilik dari repository ini. Terima kasih telah berkunjung. Ini adalah final project dari mata kuliah basis data kami yang berjudul "Technologent". Berikut adalah anggota kelompok kami: 
 
 1. I Gusti Ngurah Ryo Adi Tarta
 2. Gratia Yudika Morado Silalahi
